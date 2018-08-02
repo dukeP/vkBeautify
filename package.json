@@ -1,0 +1,19 @@
+{
+  "name": "vkbeautify4kso",
+  "version": "1.0.0",
+  "description": "fork form https://github.com/dukeP/vkBeautify",
+  "main": "vkbeautify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukeP/vkBeautify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dukeP/vkBeautify/issues"
+  },
+  "homepage": "https://github.com/dukeP/vkBeautify#readme"
+}
