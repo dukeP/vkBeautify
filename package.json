@@ -1,7 +1,7 @@
 {
   "name": "vkbeautify4kso",
   "version": "1.0.0",
-  "description": "fork form https://github.com/dukeP/vkBeautify",
+  "description": "fork form https://github.com/vkiryukhin/vkBeautify",
   "main": "vkbeautify",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

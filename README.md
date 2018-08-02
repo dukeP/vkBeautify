@@ -47,3 +47,4 @@ text in **XML**, **JSON**, **CSS** and **SQL** formats.
         vkbeautify.cssmin(text);// minify CSS, remove comments ( default )
         vkbeautify.sqlmin(text);// minify SQL
 
+> `20180802` 根据业务做了些调整
